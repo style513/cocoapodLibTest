@@ -1,0 +1,14 @@
+PODS:
+  - BZLib (0.1.0)
+
+DEPENDENCIES:
+  - BZLib (from `../`)
+
+EXTERNAL SOURCES:
+  BZLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BZLib: c5b993e895ae052534cf467dcbf31a7efa262ff7
+
+COCOAPODS: 0.39.0
